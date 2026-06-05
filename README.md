@@ -9,9 +9,9 @@ EO question addressed: *How can integrating Earth Observation data with socio-ec
 
 ## Repository Structure
 ```
-├── SEEOB.ipynb       # Main analysis notebook (Google Colab)
-├── data/             # Local data placeholder (datasets stay on Google Drive / GEE)
-└── requirements.txt  # Python dependencies
+├── notebook/SEEOB.ipynb       # Main analysis notebook (Google Colab)
+├── pics/                      # Ouput images of the notebook
+└── requirements.txt           # Python dependencies
 ```
 
 ## Data Sources
