@@ -104,6 +104,6 @@ The platform targets three segments with EO-derived analytics:
 
 ## Course
 
-SEEOB – Module 2 | A.Y. 2025–2026 | Politecnico di Milano  
+Space Economy and Earth Observation Business | A.Y. 2025–2026 | Politecnico di Milano  
 Professors: Prof. Paravano, Prof. Oxoli  
 Group 5: M. Addazi, N. D. Fragnito, R. Naeijian, A. Pallotta, E. Pessina
