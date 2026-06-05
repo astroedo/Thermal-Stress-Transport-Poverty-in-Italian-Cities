@@ -1,0 +1,9 @@
+earthengine-api
+folium
+branca
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+requests
