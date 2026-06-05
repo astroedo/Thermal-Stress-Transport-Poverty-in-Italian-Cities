@@ -3,7 +3,6 @@
 
 **SEEOB – Space Economy & Earth Observation Business | Politecnico di Milano**  
 *Project partner: [Transform Transport](https://transformtransport.org)*  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
